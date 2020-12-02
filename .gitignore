@@ -1,0 +1,8 @@
+# Built Typescript library
+libc/
+
+# Typescript compiler
+*.tsbuildinfo
+
+# Dependency directories
+node_modules/
