@@ -1,10 +1,11 @@
 import express from 'express';
+import { authorize } from './authorize';
 import { getImage } from './images';
 
 const app = express();
 const PORT = 8123;
 
-app.get('/cat/:catName', async (req, res) => {
+app.get('/cat/:catName', authorize, async (req, res) => {
   const catUrl = await getImage(req.params.catName);
   if (!catUrl) {
     return res.status(404);
