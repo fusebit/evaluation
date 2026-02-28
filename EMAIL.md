@@ -17,7 +17,7 @@ The project will be evaluated on two different criteria - first, we are looking 
 
 There's no particular time limit on this exercise, but try to complete it within two days if possible, just to keep the process moving smoothly. Our expectation is that this project will take no more than an hour or two.
 
-Send your review as a PDF via email to review@fusebit.io. I'll acknowledge receipt within a day or two, and will review it after that.
+Send your review as a PDF via email to me. I'll acknowledge receipt within a day or two, and will review it after that.
 
 If you have any questions, ambiguities to resolve, or are unable to access the repository, please don't hesitate to ask me questions!
 
